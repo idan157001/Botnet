@@ -97,7 +97,7 @@ def dis():
                     await ch.send(f"Started {user}")
         except Exception as e: pass
     
-    client.run("OTE2NjYwMzQwNTA5NTM2MzQ3.YatYdw.hwqTNqnkAHd95R_mLt6Metc_VAk")
+    client.run("")
     
 
 
