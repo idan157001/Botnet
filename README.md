@@ -9,4 +9,4 @@ Using socket&threading for udp flooding,rsa to encrypt the target ip address and
  
 
 Compiled with Nuitika 
-able to bypaass some AV
+able to bypaass some AV's
