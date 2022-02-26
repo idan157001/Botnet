@@ -8,3 +8,5 @@ Using socket&threading for udp flooding,rsa to encrypt the target ip address and
 | (rsa,asyncio,threading,socket).
  
 
+Compiled with Nuitika 
+able to bypaass some AV
